@@ -1,0 +1,1 @@
+# adrino_auto_window_shade
